@@ -52,3 +52,13 @@ Python, Tkinter, NumPy, SciPy, Matplotlib, MATLAB Engine for Python, MATLAB/Simu
 ## 中文简介
 
 SimDiag V3.7 是 MATLAB/Simulink 与 Python 联合开发的闭环执行器效率下降（LOE）故障仿真与诊断演示程序。支持健康/故障工况对比、残差分析、离线配对健康参考鲁棒性测试、因果递推 RLS 离线回放以及报告导出。**仅为仿真原型，未宣称完成工业现场验证或实时在线部署。**
+## Screenshots
+
+### 1. Simulation Dashboard
+![Simulation Dashboard](screenshots/01_simulation_dashboard.png)
+
+### 2. Robustness Benchmark
+![Robustness Benchmark](screenshots/02_robustness_benchmark.png)
+
+### 3. Automated Diagnostic Report
+![Diagnostic Report](screenshots/03_diagnostic_report.png)
