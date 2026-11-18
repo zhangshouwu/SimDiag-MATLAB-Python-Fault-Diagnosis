@@ -1,0 +1,5 @@
+numpy
+scipy
+matplotlib
+Pillow
+# MATLAB Engine for Python must be installed for your MATLAB release.
